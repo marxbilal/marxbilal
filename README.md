@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bilawal Ali
 - 👀 I’m interested in Software Development and Artificial Intelligence
-- 🌱 I’m currently learning React Native and Quantum Computers 
+- 🌱 I’m currently learning React Native and NLP. 
 - 💞️ I’m looking to collaborate on Software Development Projects
 - 📫 How to reach me b.ali.17278@khi.iba.edu.pk
 <!---
